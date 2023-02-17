@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Chinmay</h1>
-<h3 align="center">An IT student</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ethicespion7" alt="ethicespion7" /> </p>
 
